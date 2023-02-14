@@ -1,0 +1,2 @@
+#!/bin/bash
+prl -1ne 'print if $. % 2 ==1'

@@ -1,0 +1,2 @@
+#!/bin/bash
+pearl -lne 'print if $. % 2 ==1
