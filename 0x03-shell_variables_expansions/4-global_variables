@@ -1,2 +1,3 @@
-#!bin/bash
-printev
+#!/bin/bash
+printenv
+
